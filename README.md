@@ -1,5 +1,3 @@
-![I am Front-end Developer](https://jhosep98.github.io/jdb-portfolio/cec75333334ef04b0f1ddf0e41d07544.jpg)
-
 # Jhosep Davila
 I am a frontend developer, self-taught, passionate about the web and I have experience in freelance web development.
 
