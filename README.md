@@ -6,7 +6,6 @@ I am a Full Stack developer, self-taught, passionate about the web and I have ex
 <h3> About Me </h3>
 
 - 🔍 &nbsp; Exploring new web technologies.
-- 🎓 &nbsp; Studying Information Systems Engineering.
 - 💼 &nbsp; I’m currently working on Full Stack Development projects.
 - 🎯 &nbsp; Learning more about Backend and Frontend Developement.
 - 🎉 &nbsp; My hobbies are sports in general, anime, soccer and programming.
