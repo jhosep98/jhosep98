@@ -27,14 +27,6 @@ I'm a **Software Developer** with 3+ years of experience specializing in buildin
 
 ---
 
-### 🌱 My Interests & What I'm Learning
-
-- 🔍 &nbsp; Deep dive into advanced Backend architecture patterns.
-- 🎯 &nbsp; Enhancing my expertise in cloud deployment strategies.
-- 🎉 &nbsp; Outside of coding, I'm passionate about sports (especially soccer!), anime, and continuous learning.
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
