@@ -4,32 +4,15 @@ I'm a **Software Developer** with 3+ years of experience specializing in buildin
 
 ---
 
-### 🚀 About My Work & Expertise
-
-- **Building for Impact:** I excel in creating **reusable component libraries** that boost development efficiency and ensure consistent user experiences. My focus is always on delivering solutions with strong **performance optimization, SEO, and exceptional user experience**.
-- **Full Stack Versatility:** Proficient across the stack, leveraging **React, Next.js, and TypeScript** for robust frontend development, complemented by **Node.js** for powerful backend solutions.
-- **Always Learning:** Continuously exploring **emerging technologies** and staying ahead of industry trends to bring innovative solutions to challenging problems.
-
----
-
 ### 🛠️ Technologies & Tools
-
-<p align="center">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1725495137/jmdev-studio/react_z2n3qa.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1725495138/jmdev-studio/typescript_mabr0s.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1725495136/jmdev-studio/nextjs_uzrc3s.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1725495136/jmdev-studio/nodejs_yyrshc.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1751422647/jmdev-studio/material-ui_ngbgnm.svg" alt="material-ui" width="40" height="40"/></a>
-  <a href="https://www.storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1751422647/jmdev-studio/storybook-icon_wnhh7f.svg" alt="storybook" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1751422737/jmdev-studio/git-icon_ykgqjq.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/diusjfaoe/image/upload/v1725495137/jmdev-studio/tailwindcss_vonwun.svg" alt="git" width="40" height="40"/></a>
-</p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhosep98&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhosep98&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jhosep-davila-7a3b53190/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:jhosepdb149@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
+---
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhosep-davila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhosepdb149@gmail.com) 
